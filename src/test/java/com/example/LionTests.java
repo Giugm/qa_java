@@ -6,7 +6,7 @@ import java.util.List;
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.*;
 
-public class зLionTests {
+public  class LionTests {
     @Test
     void maleLionHasMane() throws Exception {
         Feline feline = mock(Feline.class);
